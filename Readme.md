@@ -1,4 +1,4 @@
-**Don't forget to paste the image.jpg in Readme you need to push the (image.jpg or image.png) on repository. On my repository image in screen/image.png**
+**Don't forget to paste the image.jpg in Readme you need to push the (image.jpg or image.png) on repository. On my repository image in screen/nyu_logo.png**
 ![alt text](screen/nyu_logo.png "Описание будет тут")​
 
 
