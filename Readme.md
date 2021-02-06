@@ -51,5 +51,5 @@
 | TEXT | TEXT| TEXT |
 
 # SYNTAX ON
-hi 'Aigo'
-here -> 'lalalalala' will be light!
+hi `Aigo`
+here -> `lalalalala` will be light!
