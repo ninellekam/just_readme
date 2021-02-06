@@ -49,3 +49,7 @@
 |--------------|:----------:|-----------:|
 | ON LEFT SIDE |BY CENTER |   ON RIGHT SIDE|
 | TEXT | TEXT| TEXT |
+
+# SYNTAX ON
+hi 'Aigo'
+here -> 'lalalalala' will be light!
