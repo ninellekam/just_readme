@@ -30,7 +30,7 @@
 
 # LIST OF YOUR SUBJECTS
 
-- [w] git add .
+- [x] git add .
 - [ ] git commit -m "new modified"
 - [x] git push
 - [ ] see on git :)
