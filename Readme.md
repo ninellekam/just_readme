@@ -1,1 +1,1 @@
-![alt text](../nyu_logo.png "Описание будет тут")​
+![alt text](screen/nyu_logo.png "Описание будет тут")​
