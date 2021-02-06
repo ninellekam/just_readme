@@ -1,4 +1,6 @@
+**Don't forget to paste the image.jpg in Readme you need to push the (image.jpg or image.png) on repository**
 ![alt text](screen/nyu_logo.png "Описание будет тут")​
+
 
 # Heading 1 level
 
