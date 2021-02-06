@@ -90,3 +90,15 @@ here -> `lalalalala` will be light!
 - Processes & Threads
 - Thread concurrency and deadlocks
 - Memory Management
+
+# Instruction to push code on github
+
+1. copy the link by your github site
+2. open terminal
+3. in temrinal: `cd any_direction` , for example: `cd Desktop`
+4. in terminal: `git clone link_of_your_git`
+4. in terminal: `cd folder_of_your_git`
+5. in terminal:
+	- `git add .`
+	- `git commit -m "new commit"`
+	- `git push`
