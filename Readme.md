@@ -37,3 +37,10 @@
 
 # TEXT OF THE LINK
 [twitter](https://twitter.com)
+
+# TABLES
+
+| LEFT | CENTER | RIGHT |
+|--------------|:----------:|-----------:|
+| ON LEFT SIDE |BY CENTER |   ON RIGHT SIDE|
+| TEXT | TEXT| TEXT |
